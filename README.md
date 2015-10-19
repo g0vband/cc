@@ -1,6 +1,6 @@
 # CC | 創用
 
-創用 CC Jingle 台灣版，只要把「創用CC」這句歌詞代換成其他語言，就可以直接變成各國 CC 分部適用的在地 Jingle 。 A creative commons jingle, currently Taiwan version. Replace one sentence with your language and it can be turned into a localized version for your country.
+創用 CC Jingle 台灣版，只要把「創用CC」這句歌詞代換成其他語言，就可以直接變成各國 CC 分部適用的在地 Jingle 。 A creative commons jingle, currently Taiwan version. Replace the sentence "創用CC" with your language and it can be turned into a localized version for your country.
 
 
 ## 歌曲資訊 meta
